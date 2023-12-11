@@ -16,7 +16,9 @@ Each feature is represented by a java file containing one or more examples of co
 
 ### UnnamedClass
 
- ``` /***
+ ```
+
+/***
  *  java --enable-preview --source 21 UnnamedClass.java
  */
 static String staticField = "I'm static field";
@@ -27,4 +29,6 @@ void main() {
     System.out.printf("%s%n", staticField);
     System.out.printf("%s%n", istanceField);
     System.out.printf("%s%n", privateInstanceField);
-} ```
+}
+
+```
