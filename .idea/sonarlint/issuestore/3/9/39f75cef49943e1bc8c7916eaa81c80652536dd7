@@ -1,0 +1,47 @@
+
+`
+java:S1854>"DRemove this useless assignment to local variable "reversedSequence".(ŸÂ”8øëëÓÅ1
+G	java:S106"+Replace this use of System.out by a logger.(›à¨8ùëëÓÅ1
+L	java:S106"+Replace this use of System.out by a logger.(ÑÕ€óÿÿÿÿÿ8ÿëëÓÅ1
+G	java:S106"+Replace this use of System.out by a logger.(Ö›äÁ8„ìëÓÅ1
+G	java:S106""+Replace this use of System.out by a logger.(³®¶©8ŠìëÓÅ1
+L	java:S1060"+Replace this use of System.out by a logger.(ó÷Ôùÿÿÿÿ8ŠìëÓÅ1
+G	java:S1066"+Replace this use of System.out by a logger.(ëŞùç8‹ìëÓÅ1
+Q
+java:S1481>"5Remove this unused "reversedSequence" local variable.(ŸÂ”8şëëÓÅ1
+U
+java:S1854T"8Remove this useless assignment to local variable "last".(ÀÎëÎ8şëëÓÅ1
+c
+java:S1854Y"FRemove this useless assignment to local variable "descendingIterator".(Ã±ÊŒ8ÿëëÓÅ1
+h
+java:S1854X"FRemove this useless assignment to local variable "descendingIterator".(çôáƒÿÿÿÿÿ8ÿëëÓÅ1
+Z
+java:S1854U"8Remove this useless assignment to local variable "last".(ü±ôæùÿÿÿÿ8ÿëëÓÅ1
+L	java:S106B"+Replace this use of System.out by a logger.(°¬„Àûÿÿÿÿ8ŒìëÓÅ1
+L	java:S106I"+Replace this use of System.out by a logger.(ÑÕ€óÿÿÿÿÿ8œàóÓÅ1
+F
+java:S1481R")Remove this unused "last" local variable.(¯äö²8ìëÓÅ1
+Y
+java:S1481X"7Remove this unused "descendingIterator" local variable.(çôáƒÿÿÿÿÿ8‚ìëÓÅ1
+[
+java:S1854n"9Remove this useless assignment to local variable "entry".(ªÏó€øÿÿÿÿ8ƒìëÓÅ1
+[
+java:S1854m"9Remove this useless assignment to local variable "entry".(÷™Ç¥øÿÿÿÿ8ƒìëÓÅ1
+V
+java:S1854y"9Remove this useless assignment to local variable "entry".(•ô­Š8ƒìëÓÅ1
+a
+java:S1854}"DRemove this useless assignment to local variable "reversedIterator".(ßØ´›8„ìëÓÅ1
+[
+java:S1854z"9Remove this useless assignment to local variable "entry".(ªÉ€Ìüÿÿÿÿ8„ìëÓÅ1
+L	java:S106]"+Replace this use of System.out by a logger.(×ïÿåşÿÿÿÿ8‚ÙôÓÅ1
+G	java:S106c"+Replace this use of System.out by a logger.(Ôâ£À8¡æõÓÅ1
+L	java:S106i"+Replace this use of System.out by a logger.(ÂƒÒÀşÿÿÿÿ8¢ùÓÅ1
+L
+java:S1481m"*Remove this unused "entry" local variable.(÷™Ç¥øÿÿÿÿ8ˆìëÓÅ1
+G	java:S106s"+Replace this use of System.out by a logger.(¹óª¥8¼èùÓÅ1
+R
+java:S1481}"5Remove this unused "reversedIterator" local variable.(ßØ´›8‰ìëÓÅ1
+H	java:S106"+Replace this use of System.out by a logger.(”î‘ˆ8÷ÉüÓÅ1
+H	java:S106‚"+Replace this use of System.out by a logger.(¡öå¿8ÒÀÿÓÅ1
+M	java:S106†"+Replace this use of System.out by a logger.(ËÜ£åıÿÿÿÿ8ü‹€ÔÅ1
+M	java:S106‡"+Replace this use of System.out by a logger.(ãµğÚşÿÿÿÿ8éÛ€ÔÅ1

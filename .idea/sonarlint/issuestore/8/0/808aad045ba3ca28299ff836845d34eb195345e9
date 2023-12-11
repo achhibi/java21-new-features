@@ -1,0 +1,39 @@
+
+Y
+java:S18548"DRemove this useless assignment to local variable "reversedSequence".(ŸÂ”
+E	java:S106"+Replace this use of System.out by a logger.(•ðè„úÿÿÿÿ
+J
+java:S14818"5Remove this unused "reversedSequence" local variable.(ŸÂ”
+N
+java:S1854P"8Remove this useless assignment to local variable "last".(ÀÎëÎ
+\
+java:S1854U"FRemove this useless assignment to local variable "descendingIterator".(Ã±ÊŒ
+a
+java:S1854T"FRemove this useless assignment to local variable "descendingIterator".(çôáƒÿÿÿÿÿ
+S
+java:S1854Q"8Remove this useless assignment to local variable "last".(ü±ôæùÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(š·ü¡ûÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(ž…›žþÿÿÿÿ
+?
+java:S1481N")Remove this unused "last" local variable.(¯äö²
+R
+java:S1481T"7Remove this unused "descendingIterator" local variable.(çôáƒÿÿÿÿÿ
+T
+java:S1854h"9Remove this useless assignment to local variable "entry".(ªÏó€øÿÿÿÿ
+T
+java:S1854g"9Remove this useless assignment to local variable "entry".(÷™Ç¥øÿÿÿÿ
+O
+java:S1854r"9Remove this useless assignment to local variable "entry".(•ô­Š
+Z
+java:S1854v"DRemove this useless assignment to local variable "reversedIterator".(ßØ´›
+T
+java:S1854s"9Remove this useless assignment to local variable "entry".(ªÉ€Ìüÿÿÿÿ
+@	java:S106Y"+Replace this use of System.out by a logger.(—èª
+E
+java:S1481g"*Remove this unused "entry" local variable.(÷™Ç¥øÿÿÿÿ
+K
+java:S1481v"5Remove this unused "reversedIterator" local variable.(ßØ´›
+@	java:S106z"+Replace this use of System.out by a logger.(”î‘ˆ
+@	java:S106{"+Replace this use of System.out by a logger.(¡öå¿
+E	java:S106"+Replace this use of System.out by a logger.(ËÜ£åýÿÿÿÿ
+F	java:S106€"+Replace this use of System.out by a logger.(ãµðÚþÿÿÿÿ
