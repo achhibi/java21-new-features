@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3438815-ecd9-4c0b-8d4a-dc4fff5a5ba0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amch/ScopedValueUsageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amch/StringTemplateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2806ab7d33df50982804f1c96425b71f18bbdff7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/808aad045ba3ca28299ff836845d34eb195345e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/2806ab7d33df50982804f1c96425b71f18bbdff7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/0/808aad045ba3ca28299ff836845d34eb195345e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/amch/UnnamedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/amch/UnnamedClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZPU9oHwcTeOjdFSkS8VuEpSF9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RecordPattern.executor": "Run",
+    "Application.ScopedValueUsageTest.executor": "Run",
+    "Application.SequencedCollectionTest.executor": "Run",
+    "Application.StringTemplate.executor": "Run",
+    "Application.StringTemplateSample.executor": "Run",
+    "Application.StringTemplateTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Github/java21-new-features",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StringTemplateSample">
+    <configuration name="ScopedValueUsageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amch.ScopedValueUsageTest" />
+      <module name="java21-new-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequencedCollectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amch.SequencedCollectionTest" />
+      <module name="java21-new-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amch.StringTemplate" />
+      <module name="java21-new-features" />
+      <option name="PROGRAM_PARAMETERS" value="--enable-preview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTemplateSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amch.StringTemplateSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amch.StringTemplateTest" />
+      <module name="java21-new-features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ScopedValueUsageTest" />
+      <item itemvalue="Application.StringTemplateSample" />
+      <item itemvalue="Application.SequencedCollectionTest" />
+      <item itemvalue="Application.StringTemplateTest" />
+      <item itemvalue="Application.StringTemplate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringTemplateSample" />
+        <item itemvalue="Application.ScopedValueUsageTest" />
+        <item itemvalue="Application.SequencedCollectionTest" />
+        <item itemvalue="Application.StringTemplateTest" />
+        <item itemvalue="Application.StringTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3438815-ecd9-4c0b-8d4a-dc4fff5a5ba0" name="Changes" comment="" />
+      <created>1702323059151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702323059151</updated>
+    </task>
+    <servers />
+  </component>
+</project>
