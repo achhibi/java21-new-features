@@ -1,6 +1,6 @@
 # Testing Java 21 New Features
 
-This project contains examples of code to test the new features of Java 21.
+This project contains examples of code to test the new features of Java 21 with sample Main class.
 
 ## Features tested
 
