@@ -20,4 +20,19 @@
         <version>1.18.30</version>
     </dependency>
 </dependencies>
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>13</source>
+                <target>13</target>
+                <compilerArgs>
+                    --enable-preview
+                </compilerArgs>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
 </project>
