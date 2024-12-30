@@ -45,8 +45,7 @@ var productAvailable = true;
 
         String productInfo = STR."""
         Product: \{productName} Price: \{productPrice} Availability: \{productAvailable ? "In Stock" : "Out of Stock"}
-        """;
-
+        """;
         System.out.println(productInfo);
 
     }
